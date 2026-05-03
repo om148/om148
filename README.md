@@ -1,4 +1,5 @@
-# 💫 About Me:
+#<img width="734" height="336" alt="image" src="https://github.com/user-attachments/assets/66fa9f04-b83d-4a8b-aced-338ea51dab7f" />
+ 💫 About Me:
 🔭 I’m currently working on PHP based web projects<br>🌱 I’m currently learning Web Development and GitHub<br>👯 I’m looking to collaborate on open source projects<br>💬 Ask me about HTML, CSS, PHP and Website Design<br>⚡ Fun fact: I enjoy creating websites and exploring new technologies
 
 
